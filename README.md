@@ -1,6 +1,6 @@
 # WordGlow
 
-Lightweight AI-powered grammar enhancer built with Node.js, Express and EJS.
+Lightweight AI-powered grammar enhancer built with Node.js, Express, EJS, and Bootstrap, with integration of the Gemini API.
 
 ## What this repo contains
 - `app.js` - main Express app
